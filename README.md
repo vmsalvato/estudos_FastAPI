@@ -1,3 +1,3 @@
-# estudos_fastAPI
+# estudos_FastAPI
 
-Projeto fila com fastAPI.
+Projeto fila com FastAPI.
